@@ -87,6 +87,11 @@ footer nav ul {
 .hero p {
     margin: 1em auto;
 }
+/* SUB PAGES */
+.page-sub .hero {
+    background: #888;
+    min-height: 30vh;
+}
 /* Lists */
 .lists {
     max-width: 1000px;
