@@ -19,7 +19,7 @@ header {
 }
 
 header a {
-    color: white;
+    color: rgb(59, 209, 202);
 }
 
 header {
@@ -123,3 +123,10 @@ footer nav ul {
     opacity: .5;
     font-size: .8em;
 }
+
+.page-home .hero {
+    background-image: url('../images/beach.jpg');
+    background-position: center top;
+    background-size: cover;
+}
+
