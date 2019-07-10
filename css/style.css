@@ -128,5 +128,21 @@ footer nav ul {
     background-image: url('../images/beach.jpg');
     background-position: center top;
     background-size: cover;
+
 }
 
+.page-about .hero {
+    background-image: url('../images/sunset.jpg');
+    background-position: center top;
+    background-size: cover;
+}
+
+/* CUSTOM UI DESIGNS */
+
+.ui-designs {
+    text-align: center;
+}
+
+.ui-designs img {
+    max-width: 200px;
+}
