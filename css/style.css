@@ -103,7 +103,7 @@ footer nav ul {
 
 @media (max-width:767px) {
     .lists {
-        grid-template-columns: 1 fr 1 fr;
+        grid-template-columns: 1fr 1fr;
     }
 }
 /* BLOG ARCHIVES */
